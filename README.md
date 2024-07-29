@@ -1,5 +1,9 @@
 Project was to create a portfolio using react. The site is a 4 page site. The site is to allow potential employers to better know more about me. 
 
+Link: https://mikekruce.github.io/React-Portfolio/
+
+Github: https://github.com/MikeKruce/React-Portfolio
+
 ![Screenshot 2024-07-29 003727](https://github.com/user-attachments/assets/b1250d61-fdf5-4668-aecb-fcbe37787fbd)
 
 
